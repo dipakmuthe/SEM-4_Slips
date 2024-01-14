@@ -1,5 +1,5 @@
-// Q.1) Implement a Binary search tree (BST) library (btree.h) with operations – create, search, preorder.
-Write a menu driven program that performs the above operations.
+/* Q.1) Implement a Binary search tree (BST) library (btree.h) with operations â€“ create, search, preorder.
+Write a menu driven program that performs the above operations.*/
 #include<stdio.h>
 #include<stdlib.h>
 #define MAX 100
